@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @MrYorkshire!
-- My Professons: NodeJS, VSC studio, Python, Unity, Discord.JS, AI Coding
+- 👋 Hello, I’m @MrYorkshire! (commonly called TheTerrierKnight or just Knight)
 
 -Need help with any of my repositories? make a issue on the repository and tell what is your problem with the code
 
